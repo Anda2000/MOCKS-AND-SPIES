@@ -17,9 +17,6 @@ class SendMessage {
     }
 }
 
-var user = new SendMessage ('0656221180', 'changed');
-user.toString();
-
 module.exports = {
     SendMessage
 }
